@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+requests
+chardet
+openpyxl
+lxml
+beautifulsoup4
+html5lib
+notebook
